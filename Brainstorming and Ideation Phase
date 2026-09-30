@@ -1,1 +1,5 @@
 Brainstorming and Ideation Phase
+The idea of FitBuddy was developed to solve the problem of creating a suitable fitness plan for each individual. Different people have different fitness goals, fitness levels, workout intensities and available workout times.
+The main idea was to develop an AI-based fitness application that can collect the user's basic fitness information and use the Gemini AI model to generate a personalized 7-day fitness plan.
+The system was planned to provide workout exercises, warm-up, rest, cool-down and recovery suggestions. It also provides general healthy eating and hydration tips.
+The application also allows users to provide feedback on their generated plan. Based on the feedback, Gemini can generate an updated workout plan.
