@@ -1,1 +1,8 @@
 Project Documentation Phase
+In the documentation phase, all the important information about the FitBuddy – AI Fitness Plan Generator using Gemini Models project is recorded and organized.
+The documentation explains the purpose of the project, the problems it solves, and the objectives of the application. It describes how the system collects user fitness details and uses the Gemini AI model to generate a personalized 7-day fitness plan.
+The technologies used in the project, such as Python, FastAPI, Gemini AI, SQLite, SQLAlchemy, HTML and CSS, are documented.
+The documentation also includes the system requirements, functional and non-functional requirements, project design, database details, development process and testing procedures.
+The working of important features such as workout generation, nutrition and recovery suggestions, user feedback and workout-plan updating is explained.
+The testing results and screenshots of the working application can also be included to show that the system works correctly.
+Finally, the documentation contains the project conclusion, future enhancements and references used during development.
