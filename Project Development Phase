@@ -1,1 +1,10 @@
 Project Development Phase
+During the development phase, the planned design was converted into a working application.
+The frontend was developed using HTML and CSS. It provides forms for entering the user's name, user ID, age, weight, fitness goal, fitness level, workout intensity and available time.
+The backend was developed using FastAPI in Python.
+The Gemini service was implemented to perform three major tasks.
+First, Gemini generates the user's 7-day workout plan.
+Second, Gemini generates general nutrition, hydration and recovery tips.
+Third, Gemini updates the existing workout plan according to the user's feedback.
+The database was developed using SQLite and SQLAlchemy. User details and fitness plans are stored in the database.
+The application also includes an admin view for viewing users and managing stored information.
