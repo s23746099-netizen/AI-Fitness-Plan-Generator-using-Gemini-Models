@@ -1,1 +1,12 @@
 Project Testing Phase
+The testing phase was performed to check whether the FitBuddy application works correctly.
+The user input form was tested with valid information.
+Different fitness goals such as weight loss, muscle gain and general wellness were tested.
+Different fitness levels such as beginner, intermediate and advanced were tested.
+Different workout intensities were also tested.
+The workout generation feature was tested to check whether Gemini generates a 7-day plan.
+The nutrition and recovery tips were tested.
+The feedback feature was tested to check whether Gemini can update the original workout plan.
+Database operations were tested to ensure that user details and fitness plans are stored correctly.
+The admin page was tested to check whether users and their plans can be viewed and deleted correctly.
+The application was also checked for errors in user input, database operations and Gemini API communication.
