@@ -1,1 +1,14 @@
 Project Demonstration Phase
+During the demonstration, the FitBuddy application can be presented step by step.
+First, the FitBuddy home page is opened.
+The user's name, user ID, age and weight are entered.
+The user then selects a fitness goal, fitness level and workout intensity.
+The available workout time is entered.
+The Generate My Plan button is clicked.
+The application sends the information to Gemini.
+Gemini generates a personalized 7-day fitness plan.
+The generated plan is displayed with daily exercises, warm-up, activity, sets or duration, rest, cool-down and notes.
+The application also displays general nutrition and recovery suggestions.
+Next, feedback can be entered by the user.
+The feedback is sent to Gemini, and the system generates an updated workout plan.
+Finally, the admin section can be demonstrated to show the stored users and fitness plans.
