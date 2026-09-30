@@ -1,1 +1,10 @@
 Project Design Phase Phase
+The design phase explains how the different components of FitBuddy work together.
+The application starts with a user input page where the user enters their personal fitness information.
+The information is sent to the FastAPI backend.
+The backend sends the required fitness information to the Gemini AI model.
+Gemini generates a 7-day fitness plan according to the user's goal, fitness level, intensity and available time.
+The generated plan and nutrition information are stored in the SQLite database.
+The result is then displayed to the user in a simple format.
+The user can provide feedback about the plan. The feedback is sent to Gemini along with the original plan, and Gemini generates an updated plan.
+The project contains separate pages for the main input page, result page, admin page and user information page.
